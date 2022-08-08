@@ -1,0 +1,8 @@
+body{
+    background-color:linear-gradient(rgba(#D6EAF8), rgba( #A2D9CE));
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+button{
+    margin: 5px;
+}
